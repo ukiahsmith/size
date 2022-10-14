@@ -1,3 +1,3 @@
-module github.com/caproven/bytesize
+module github.com/ukiahsmith/size
 
 go 1.18
